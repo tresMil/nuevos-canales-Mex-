@@ -1,0 +1,281 @@
+#EXTM3U
+#EXTINF:-0,Lista mamalona
+#EXTINF:-1,mega_kids
+https://clutch.vaughnsoft.net/ord/vl/mega_kids.m3u8
+#EXTINF:-1,estrellatv
+https://clutch.vaughnsoft.net/ord/vl/estrellatv.m3u8
+#EXTINF:-1,Canal 5
+http://channels.premiumtutv.com/stream_14_sk_st.m3u8
+#EXTINF:-1,cine_calidad
+https://clutch.vaughnsoft.net/ord/vl/cine_calidad.m3u8
+#EXTINF:-1,cine_star
+https://clutch.vaughnsoft.net/ord/vl/cine_star.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/z4yd0upsl/cine_sky.png" group-title="Filmes e Séries",Cine Sky
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1,creme_classichd#EXTINF:-1 tvg-name="Las Estrellas " tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Canal-de-las-Estrellas/Canal-de-las-Estrellas_.png" group-title="Mexico",Las Estrellas -2hrs
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1,MULTIMEDIOS MONTERREY HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+ #EXTINF:-1 tvg-shift=0 tvg-name="Azteca 13 HD" tvg-logo="http://iptvmexico.xyz/logos/png/26.png", Azteca 13 HD
+http://www.iptvmexico.xyz/ch/26.m3u8
+ 
+#EXTINF:-1 tvg-shift=0 
+="Gala TV HD" tvg-logo="http://iptvmexico.xyz/logos/png/129.png", Gala TV HD
+http://www.iptvmexico.xyz/ch/129.m3u8
+#EXTINF:-1,ESPN
+http://channels.premiumtutv.com/stream_95_sk_st.m3u8
+#EXTINF:-1,ESPN 2
+http://channels.premiumtutv.com/stream_35_sk_st.m3u8
+ 
+#EXTINF:-1,ESPN 3
+http://channels.premiumtutv.com/stream_36_sk_st.m3u8
+
+
+# EXTINF: -1, ES: Canal Real Madrid
+#EXTVLCOPT: http-user-agent = Samsung SM-G935F stagefright / Beyonce / 1.1.9 (Linux; Android 7.0)
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/38.m3u8
+# EXTINF: -1, ES: Canal LIGA HD
+#EXTVLCOPT: http-user-agent = Samsung SM-G935F stagefright / Beyonce / 1.1.9 (Linux; Android 7.0)
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/41.m3u8
+# EXTINF: -1, Latino: WIN SPORT HD
+#EXTVLCOPT: http-user-agent = Samsung SM-G935F stagefright / Beyonce / 1.1.9 (Linux; Android 7.0)
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/37.m3u8
+
+#EXTINF:-1,Nickelodeon (Nick)
+http://channels.premiumtutv.com/stream_21_sk_st.m3u8
+
+#EXTINF:-1,Lifetime
+http://channels.premiumtutv.com/stream_34_sk_st.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="FXM" tvg-logo="http://iptvmexico.xyz/logos/png/220.png", FXM
+http://www.iptvmexico.xyz/ch/220.m3u8
+#EXTINF:-1,Golden Edge
+http://channels.premiumtutv.com/stream_37_sk_st.m3u8
+
+#EXTINF:-1,Distrito Comedia FIXED
+http://channels.premiumtutv.com/stream_121_sk_st.m3u8
+
+#EXTINF:-1,Ritmoson Latino
+http://channels.premiumtutv.com/stream_41_sk_st.m3u8
+#EXTINF:-1,Bandamax    
+http://channels.premiumtutv.com/stream_84_sk_st.m3u8
+
+#EXTINF:-1,Las estrellas (canal 2)
+http://channels.premiumtutv.com/stream_7_sk_st.m3u8 
+#EXTINF:-1,Fox
+http://channels.premiumtutv.com/stream_8_sk_st.m3u8 
+#EXTINF:-1,Tlnovelas
+http://channels.premiumtutv.com/stream_9_sk_st.m3u8 
+#EXTINF:-1,MTV    
+http://channels.premiumtutv.com/stream_10_sk_st.m3u8 
+#EXTINF:-1,Sony
+http://channels.premiumtutv.com/stream_11_sk_st.m3u8 
+#EXTINF:-1,Azteca 13
+http://channels.premiumtutv.com/stream_12_sk_st.m3u8 
+#EXTINF:-1,Azteca 7
+http://channels.premiumtutv.com/stream_13_sk_st.m3u8 
+ #EXTINF:-1,NatGeo
+http://channels.premiumtutv.com/stream_23_sk_st.m3u8.                           #EXTINF:-1,Multimedios Monterrey
+http://channels.premiumtutv.com/stream_26_sk_st.m3u8                      #EXTINF:-1,TNT Series
+http://channels.premiumtutv.com/stream_39_sk_st.m3u8                            #EXTINF:-1,A&E
+http://channels.premiumtutv.com/stream_48_sk_st.m3u8                            #EXTINF:-1,Golden
+http://channels.premiumtutv.com/stream_54_sk_st.m3u8
+#EXTINF:-1,HMX TV
+http://channels.premiumtutv.com/stream_68_sk_st.m3u8
+#EXTINF:-1,Gala TV
+http://channels.premiumtutv.com/stream_72_sk_st.m3u8
+#EXTINF:-1,Fox Sports 2
+http://channels.premiumtutv.com/stream_77_sk_st.m3u8 
+#EXTINF:-1,Universal
+http://channels.premiumtutv.com/stream_78_sk_st.m3u8 
+#EXTINF:-1,The Film Zone
+http://channels.premiumtutv.com/stream_79_sk_st.m3u8
+#EXTINF:-1,Space    
+http://channels.premiumtutv.com/stream_81_sk_st.m3u8
+#EXTINF:-1,AMC
+http://channels.premiumtutv.com/stream_96_sk_st.m3u8 
+#EXTINF:-1,Fox NatGeo
+http://channels.premiumtutv.com/stream_98_sk_st.m3u8
+#EXTINF:-1,Telehit
+http://channels.premiumtutv.com/stream_100_sk_st.m3u8
+#EXTINF:-1,Fox Sports
+http://channels.premiumtutv.com/stream_102_sk_st.m3u8 
+#EXTINF:-1,ESPN +
+http://channels.premiumtutv.com/stream_103_sk_st.m3u8
+#EXTINF:-1,Proyecto 40
+http://channels.premiumtutv.com/stream_109_sk_st.m3u8 
+#EXTINF:-1,HOLA TV
+http://channels.premiumtutv.com/stream_110_sk_st.m3u8 
+#EXTINF:-1,Milenio TV
+http://channels.premiumtutv.com/stream_111_sk_st.m3u8
+#EXTINF:-1,Az Mundo
+http://channels.premiumtutv.com/stream_113_sk_st.m3u8
+
+#EXTINF:-1,Imagen TV
+http://channels.premiumtutv.com/stream_118_sk_st.m3u8 
+#EXTINF:-1,Cinecanal
+http://channels.premiumtutv.com/stream_119_sk_st.m3u8 
+#EXTINF:-1,Distrito Comedia FIXED
+http://channels.premiumtutv.com/stream_121_sk_st.m3u8
+#EXTINF:-1,Cinemax (O)
+http://channels.premiumtutv.com/stream_115_sk_st.m3u8
+
+#EXTINF:-1, Dia del Patriotas
+http://bit.ly/2iYa5Rp
+ 
+#EXTINF:-1 tvg-logo="http://cinevall.club/images/aventuras_poster.jpg" group-title="CINE", Aventuras Extremas
+http://bit.ly/2ziIPnj?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg" group-title="CINE", Secuestrado
+http://bit.ly/2yCdJpr?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Killing_Hasselhoff.png" group-title="CINE", Operativo Hasselhoff
+http://bit.ly/2gkOjpV?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/warner-bros-pictures/annabelle-2-poster.jpg" group-title="CINE", Annabelle 2
+http://bit.ly/2yqjyGj?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="https://noescinetodoloquereluce.com/wp-content/uploads/2017/06/dunkerque.jpg" group-title="CINE", Dunkerque
+http://bit.ly/2yOg4y1?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="http://cinevall.com/images/kong_poster.jpg" group-title="CINE", Kong La Isla Calavera
+http://bit.ly/2yrVenR?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="https://noescinetodoloquereluce.com/wp-content/uploads/2017/09/Poster-de-Coco.jpg" group-title="CINE", Coco
+http://bit.ly/2zlc9tv?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_37278.jpg" group-title="CINE", Jig SAw 8
+http://bit.ly/2hpjtK0?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="http://www.bollywoodlife.com/wp-content/uploads/2017/04/THOR_1.jpg" group-title="CINE", Thor Ragnarok
+http://bit.ly/2zOMTbe?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="http://www.bollywoodlife.com/wp-content/uploads/2017/04/THOR_1.jpg" group-title="CINE", Thor Ragnarok Castellano
+http://bit.ly/2xx2sUg?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/e5c871_cb470a416dcd4c92ba772bb7bbcecd65~mv2.jpg" group-title="CINE", Hazlo Como Hombre
+http://condor1726.dedicatedpanel.com/CAM-PELIS/Hazlo%20como%20Hombre%20(2017).mp4?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="http://septimopodcast.com/wp/wp-content/uploads/2017/03/gostorm-poster.jpg" group-title="CINE", Geo Tormenta
+http://bit.ly/2zJqugm?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="https://mediafiles.cineplex.com/Central/Film/Posters/26311_320_470.jpg" group-title="CINE", Linea Mortal
+http://bit.ly/2x6sqhh?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/me_gusta_pero_me_asusta-745603400-large.jpg" group-title="CINE", Me gusta pero me Asusta
+http://bit.ly/2lny0u8?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="http://www.retornoanime.com/wp-content/uploads/2017/03/eso_02.jpg" group-title="CINE", IT (ESO)
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:397-It.mp4/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BYTg0MmUyNjItYzJmNi00YTcxLTg4OTQtNmI2ZjI0ZDIzNjQ2XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_UY1200_CR113,0,630,1200_AL_.jpg" group-title="CINE", 1922
+http://bit.ly/2gu7Wbz?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="https://mediafiles.cineplex.com/Central/Film/Posters/26311_320_470.jpg" group-title="CINE", Linea Mortal
+https://ia801503.us.archive.org/25/items/linea_201710/linea.mp4
+ 
+#EXTINF:-1 tvg-logo="http://cinevall.club/images/la_torre_oscura_poster.jpg" group-title="CINE", La Torre Oscura
+http://bit.ly/2hPm8Mv?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="http://i.myegy.to/images/39f43564090d.original.jpeg" group-title="CINE", El Ultimo Rey
+http://bit.ly/2x56eUz?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="http://cinevall.com/images/terremoto_poster.jpg" group-title="CINE", Terromoto
+http://www.cinevall.com/videos/terremoto.m4v
+ 
+ 
+#EXTINF:-1 tvg-logo="https://puu.sh/xa5Ns/e9ca28e7a5.png" group-title="CINE", Los 3 Chiflados 24/7
+https://www.youtube.com/watch?v=CXUX0AV7LNY
+
+
+#EXTINF:-1,beIN SPORTS en EspaÃ±ol
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/20400.ts
+#EXTINF:-1,beIN SPORTS en  EspaÃ±ol *
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/16675.ts
+#EXTINF:-1,DIRECTV sports HD
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/21104.ts
+#EXTINF:-1,DIRECTV sports 2
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/20874.ts
+#EXTINF:-1,DIRECTV sports +
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/20875.ts
+#EXTINF:-1,CNT SPORTS HD
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/20870.ts
+#EXTINF:-1,TDN HD
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/18430.ts
+#EXTINF:-1,TDN --
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/22006.ts
+#EXTINF:-1,Univision Deportes Network FHD
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/16677.ts
+#EXTINF:-1,univision deportes network #3
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/21709.ts
+#EXTINF:-1,Univision TDN
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/18429.ts
+#EXTINF:-1,TVC Deportes FHD
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/20284.ts
+#EXTINF:-1,TVC Deportes
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/20847.ts
+#EXTINF:-1,Golf Latin America
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/20910.ts
+#EXTINF:-1,FOX Deportes HD
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/15688.ts
+#EXTINF:-1,Fox Sports
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/18405.ts
+#EXTINF:-1,Fox  Sports
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/15687.ts
+#EXTINF:-1,Fox   Sports
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/20956.ts
+#EXTINF:-1,Fox Sports 2
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/18406.ts
+#EXTINF:-1,Fox  Sports 2
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/15685.ts
+#EXTINF:-1,Fox   Sports 2
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/20955.ts
+#EXTINF:-1,Fox Sports 3
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/18403.ts
+#EXTINF:-1,Fox  Sports 3
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/15683.ts
+#EXTINF:-1,Fox   Sports 3
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/20954.ts
+#EXTINF:-1,Fox    Sports
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/18432.ts
+#EXTINF:-1,ESPN Deportes HD
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/21691.ts
+#EXTINF:-1,ESPN + FHD
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/18410.ts
+#EXTINF:-1,ESPN +
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/18700.ts
+#EXTINF:-1,ESPN FHD
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/18407.ts
+#EXTINF:-1,ESPN HD
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/17749.ts
+#EXTINF:-1,Espn
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/20960.ts
+#EXTINF:-1,ESPN 2 FHD
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/18408.ts
+#EXTINF:-1,ESPN 2 HD
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/17746.ts
+#EXTINF:-1,Espn 2
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/20959.ts
+#EXTINF:-1,ESPN 3 FHD
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/18409.ts
+#EXTINF:-1,ESPN 3 HD
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/17745.ts
+#EXTINF:-1,Espn 3
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/20958.ts
+
+#EXTINF:-1,PX Sports FHD
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/18345.ts
+#EXTINF:-1,PX Sports
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/15694.ts
+#EXTINF:-1,PX Sports #2
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/21252.ts
+#EXTINF:-1,Latin America Sports
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/20849.ts
+#EXTINF:-1,Latin American Sports #2
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/21253.ts
+#EXTINF:-1,AyM Sports
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/15693.ts
+#EXTINF:-1,AyM Sports #2
+http://66.70.182.153:8000/live/Christian-Montes/1sicw8ABJ2/21251.ts
